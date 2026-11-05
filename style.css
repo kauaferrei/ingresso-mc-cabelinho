@@ -1,0 +1,11 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    height: 120vh;
+    background-image: url(./img/wp11878440.jpg);
+    background-size: cover;
+}
